@@ -3,4 +3,6 @@ Este repositório serve para guardar os projetos que realizei na Digital Innovat
 
 ### Projetos Realizados
 
-1. Posicionando elementos com Flexbox em CSS (24/03/2022);
+1. Introdução ao Git e Github;
+1. Posicionando elementos com Flexbox em CSS;
+1. Sintaxe básica em JavaScript
